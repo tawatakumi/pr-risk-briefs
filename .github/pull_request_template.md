@@ -24,6 +24,10 @@ What does this PR change?
 
 What should reviewers check?
 
+- [ ] Content is clear
+- [ ] Scope is limited
+- [ ] Safety checks are accurate
+
 ## Next Action
 
 What should happen after this PR is merged?

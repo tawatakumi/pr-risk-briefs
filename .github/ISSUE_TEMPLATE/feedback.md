@@ -15,6 +15,8 @@ Example:
 - PVRB-001
 - PVRB-002
 
+Link to the brief if helpful.
+
 ## What was useful?
 
 Describe what helped.
@@ -38,3 +40,5 @@ Describe anything that felt too generic, incorrect, or not useful.
 ## Additional context
 
 Anything else we should know?
+
+Add links or screenshots only if they are public.
