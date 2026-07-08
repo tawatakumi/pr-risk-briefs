@@ -33,6 +33,7 @@ Experimental / Public Validation
 ## Current Briefs
 - PVRB-001: Supabase PR #35240
 - PVRB-002: Cal.com PR #28476
+- PVRB-003: Node.js PR #64311
 
 ## Feedback
 Feedback is intended to be collected through GitHub Issues.
